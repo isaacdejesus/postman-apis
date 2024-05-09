@@ -29,7 +29,7 @@
     - GraphQL
     - WebSockets
     - webhooks
-    - SOAL(Simple Object Access Protocol)
+    - SOAP(Simple Object Access Protocol)
     - gRPC(Google Remote Procedure Call)
     - MQTT(MQ Telemetry Transport)
 - Course will focus on REST APIs
